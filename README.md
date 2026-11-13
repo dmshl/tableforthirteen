@@ -4,4 +4,6 @@
 
 **Created**: Nov 6, 2026, 9:08 PM UTC
 
+**Direct file link**: 
+
 **Proof**: https://github.com/dmshl/tableforthirteen/blob/main/thirteen.csv.ots
