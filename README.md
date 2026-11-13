@@ -4,6 +4,6 @@
 
 **Created**: Nov 6, 2026, 9:08 PM UTC
 
-**Direct file link**: 
+**Direct file link**: https://raw.githubusercontent.com/dmshl/tableforthirteen/gut-file-2026-11-07/thirteen.csv
 
 **Proof**: https://github.com/dmshl/tableforthirteen/blob/main/thirteen.csv.ots
