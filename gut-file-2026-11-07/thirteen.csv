@@ -1,0 +1,39 @@
+#,Threat Description,Role : My Opinion before Analysis,Role : After Analysis,Civilization or Personal,Probabilty,Severity,Reversability,Onset speed,Tractability,Neglectedness,Evidence Quality,Guesstimation Timestamp,Estimation Timestamp
+1,Climate Change,"Tell: Avg world temp increase 1C per 2yrs. In 30 yrs: Jan avg low will be +10, Jul avg high +44. 
+My ranking: Stressor for me; Hazard for my children.  Weight: 5. Reason: my skin doesn't accept suntan anymore",,,,,,,,,,,
+2,Biosphere Degradation,"Tell: Avg annual deforestation rate is 0.3%. In 30 yrs: 9% less forest. Means 9% less oxygen. 
+My ranking: Stressor for me; Hazard for my children
+Weight: 3. Reason: air dynamics should allow us to survive despite this",,,,,,,,,,,
+3,Water & Food Security,"Tell: Agriculture uses 72% of global freshwater. Global Agriculture CAGR: 4%. In 6  yrs we must compete for water with agriculture.
+My ranking: Hazard.
+Weight: 3. Reason: I think it's possible to invent more water efficient methods during the nearest future",,,,,,,,,,,
+4,Nuclear War,"Tell: Doomsday Clock in 1984 (iciest point during the Cold War) 3 min, 2026 - 85 sec (the closest time ever). 
+My ranking: Hazard
+Weight: 10. Reason: I live in Ukraine and Russia threatens Ukraine with nuclear weapons more times than Soviet Union threatens USA during all its history",,,,,,,,,,,
+5,Great-power & proxy wars,"Tell: 65 (all-time peak) during the last decade, including 13 high-intensity great loss wars, compared to 30-40 during the previous decade, with 4 to 6 high-intensity ones. In 30 years it can grow up to 257 conflicts with 68 high-intensity ones. We have 197 countries right now. It means 70% of countries will be involved in high-intensity wars
+My ranking: Hazard
+Weight: 10. Reason: Russia has already demonstrated that it's going to keep its genocide tactics against Ukrainian civilians",,,,,,,,,,,
+6,Terrorism & extrimism,"Tell: during last decade it dropped from 45k annual death toll to 24k
+My ranking: Stressor for me. Amplifier for my children
+Weight: 8. Reason: Russia's tactics can transform into terrorism, which most of its population is leaning toward, it requires a lot of time even if the Russian regime would be flipped in the nearest future.",,,,,,,,,,,
+7,AI loss of control,"Tell: that rapid acceleration could leave humanity unable to follow or intervene in future AI decisions. No prior data. CAGR 800%.
+My ranking: Stressor 
+Weight: 2. Reason: before AI decision transforms into a physical action is a long journey",,,,,,,,,,,
+8,AI misuse (incl. autonomic weapons),"Tell: AI misuse has transitioned from a niche, theoretical risk into an active, everyday threat spanning cyber warfare, mass disinformation, and algorithmic targeting on actual battlefields. Annual incidents avg: 80 . CAGR: 800 %. In 30 yrs 10^28 incidents
+My ranking: Hazard
+My ranking: 8. Reason: It depends on who owns the technology. If an authoritarian state like Russia, North Korea, Iran, or China. They will probably just overlook the security of mistake.",,,,,,,,,,,
+9,Cyberattacks on critical infra,"Tell: 420 million cyberattacks a year, meaning 13 attacks every second. 50% of the attacks are on critical infrastructure. CAGR: 18% with 400% growth spike in critical infrastructure, especially the aviation and transport sectors. In two years, all public transport will be under threat.
+My ranking: Stressor
+Weight: 7. Reason: despite Russian-associated hackers attacking critical infrastructure almost every year, the maximum damage I can recall is a two-day pause in bank operations.",,,,,,,,,,,
+10,Engineered biology & lab incedents,"Tell: Irkutsk laboratory incident (2026). No prior data. 
+My ranking: Amplifier
+Weight: 1. Reason: as this kind of study is highly regulated and we have no evidence, neither for baseline nor for consequences, I see no substantial risk",,,,,,,,,,,
+11,Natural pandemics,"Tell: influenza and zootonic pandemics (covid-19, ebola, hiv). Annual avg death toll 1.5 mln this decade vs 800 ths previos decade. CAGR 90%. In 30yrs it will be 10 mln annually.
+MY ranking: Amplifier for me. Stresser for my children
+Weight: 4. Reason: I live in a moderately populated area. Less risk of contact, more chances to secure myself.",,,,,,,,,,,
+12,Financial system collapse,"Tell: The non-performing loans (NPL)ratio decreased during the last decade from 1-7.5% to 0.7-1.5%. In 30 yrs it can be 0.25-0.3%
+My ranking: Amplifier
+Weight: 4. Reason: during the whole, I personally lost a quite substantial amount of money. I could live a different life. However, the Soviet Union's breakup brought a wave of banditry on the streets. I consider it a secondary risk of the financial collapse",,,,,,,,,,,
+13,Institutional & informational decay,"Tell: mostly by books, tv series, and institutional publications. No prior data
+My ranking: Amplifier
+Weight: 6. Reason: powerful unknown for the most people. However knowing by myself what Chernobyl means not by HBO series, but literally. I'd never underestimate it.",,,,,,,,,,,
