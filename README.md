@@ -10,6 +10,6 @@
 
 **Direct file link**: https://github.com/dmshl/tableforthirteen/blob/main/gut-file-2026-11-07/thirteen.csv
 
-**Proof**: https://github.com/dmshl/tableforthirteen/blob/main/thirteen.csv.ots
+**Proof**: https://github.com/dmshl/tableforthirteen/blob/gut-file/gut-file-2026-11-07/thirteen.csv.ots
 
 **Gut Ranking File SHA-256**: 669bbe3fbafdc76d3635018e80c08d2f68cce06f78333d1a17cbf544a0746523
