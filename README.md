@@ -19,6 +19,7 @@
 ### Forecast Seat 4
 
 Committed: Nov 24, 2026
+
 To be checked: Mar 31, 2027
 
 [Nuclear War](https://github.com/dmshl/tableforthirteen/blob/main/2026-11-25/Forecast%201%20v3.md)
